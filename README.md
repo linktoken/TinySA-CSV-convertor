@@ -18,6 +18,6 @@ A: Check Setting the PowerShell Execution Policy
 	  and type " A " to continue .
     
  B: How to run script
-  - Open script with PowerShell.
+  - Open script with PowerShell. [TinytoWWB.ps1]
   - Drag CSV file from TinySAapp to PowerShell for input file location and please Enter.
   - Drage same CSV file from TinySAapp to PowerShell for output file location, rename and please Enter.
