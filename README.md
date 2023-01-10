@@ -1,7 +1,7 @@
 # TinySA-CSV-convertor
 Convert CSV file from TinySAapp to use with shure wireless workbench.
 
-
+** This script can run with Unrestricted ONLY ! **
 How to use script
 
 A: Check Setting the PowerShell Execution Policy
@@ -11,7 +11,6 @@ A: Check Setting the PowerShell Execution Policy
 		- AllSigned - Only scripts signed by a trusted publisher can be run.
 		- RemoteSigned - Downloaded scripts must be signed by a trusted publisher before they can be run.
 		- Unrestricted - No restrictions; all scripts can be run.
-    - This script can run with Unrestricted ONLY !
    	- Change PowerShell policy to Unrestricted, Type " set-executionpolicy unrestricted " and type " A " to continue .
     
  B: How to run script
