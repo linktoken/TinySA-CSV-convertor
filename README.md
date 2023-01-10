@@ -7,10 +7,10 @@ How to use script
 A: Check Setting the PowerShell Execution Policy
   - Open PowerShell run as administrator.
 	- Type " get-executionpolicy " to check policy.
-	    Restricted - No scripts can be run. Windows PowerShell can be used only in interactive mode.
-		  AllSigned - Only scripts signed by a trusted publisher can be run.
-		  RemoteSigned - Downloaded scripts must be signed by a trusted publisher before they can be run.
-		  Unrestricted - No restrictions; all scripts can be run.
+	- Restricted - No scripts can be run. Windows PowerShell can be used only in interactive mode.
+	- AllSigned - Only scripts signed by a trusted publisher can be run.
+	- RemoteSigned - Downloaded scripts must be signed by a trusted publisher before they can be run.
+	- Unrestricted - No restrictions; all scripts can be run.
       
       -This script can run with Unrestricted ONLY !
 		
