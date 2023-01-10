@@ -12,7 +12,7 @@ A: Check Setting the PowerShell Execution Policy
 	- RemoteSigned - Downloaded scripts must be signed by a trusted publisher before they can be run.
 	- Unrestricted - No restrictions; all scripts can be run.
       
-      -This script can run with Unrestricted ONLY !
+   -This script can run with Unrestricted ONLY !
 		
 	- To change PowerShell policy to Unrestricted, Type " set-executionpolicy unrestricted "
 	  and type " A " to continue .
